@@ -1,4 +1,4 @@
-# project1
+# Examples of Markdown
 My new project
 
 # level 1
